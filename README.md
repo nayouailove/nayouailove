@@ -1,6 +1,6 @@
 ## Hi there 👋
-메롱
 햄부기
+
 https://youailove0318.tistory.com/
 
 <!--
