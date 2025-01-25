@@ -1,6 +1,7 @@
 ## Hi there 👋
 메롱
 햄부기
+https://youailove0318.tistory.com/
 
 <!--
 **nayouailove/nayouailove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
