@@ -4,10 +4,18 @@
 # 코딩하기너무어렵다
 ## 안녕
 **강조**
-*우웩*
-##쉽게만살아가고싶어요
+__공부하기싫어__
 
-https://youailove0318.tistory.com/
+*우웩* _기울임체_
+~~쉽게만살아가면재미있어빙고~~
+<u>업보청산중</u>
+
+<img src = "https://images5.fanpop.com/image/photos/25600000/Rilakkuma-rilakkuma-25606030-1024-768.jpg" width = "50%" height = "50%" >
+
+> https://youailove0318.tistory.com/
+>> 하ㅏㅎ하하 구경해주세
+마크다운 참고함
+https://codesik.github.io/How-To-Use-MarkDown/
 
 <!--
 **nayouailove/nayouailove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
