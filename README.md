@@ -7,7 +7,7 @@
 __공부하기싫어__
 
 *우웩* _기울임체_
-~~쉽게만살아가면재미있어빙고~~
+~~아놔~~
 <u>업보청산중</u>
 
 <img src = "https://images5.fanpop.com/image/photos/25600000/Rilakkuma-rilakkuma-25606030-1024-768.jpg" width = "50%" height = "50%" >
