@@ -10,7 +10,7 @@ __공부__
 
 > https://youailove0318.tistory.com/
 
-https://ibb.co/fdFRx6fZ
+<img src = "https://ibb.co/fdFRx6fZ" width = "50%" height = "50%" >
 <!--
 **nayouailove/nayouailove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
