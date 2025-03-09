@@ -8,7 +8,7 @@ __공부__
 
 <img src = "https://images5.fanpop.com/image/photos/25600000/Rilakkuma-rilakkuma-25606030-1024-768.jpg" width = "50%" height = "50%" >
 
-> [룰루랄라](https://youailove0318.tistory.com/?utm_source=github&utm_medium=profile&utm_campaign=hahaho
+>열심히 공부하고있는 티스토리이다.. [룰루랄라](https://youailove0318.tistory.com/?utm_source=github&utm_medium=profile&utm_campaign=hahaho
 )
 
 
