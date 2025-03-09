@@ -8,7 +8,9 @@ __공부__
 
 <img src = "https://images5.fanpop.com/image/photos/25600000/Rilakkuma-rilakkuma-25606030-1024-768.jpg" width = "50%" height = "50%" >
 
-> https://youailove0318.tistory.com/
+> [룰루랄라](https://youailove0318.tistory.com/?utm_source=github&utm_medium=profile&utm_campaign=hahaho
+)
+
 
 <img src = "https://ibb.co/fdFRx6fZ" width = "50%" height = "50%" >
 <!--
